@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 553b5b0749faf7f47bd055c785fb1e50
+timeCreated: 1484218449
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group
+    100002: group1
+    100004: group2
+    100006: group3
+    100008: group4
+    100010: group5
+    100012: pasted__group10
+    100014: pasted__pasted__group9
+    100016: pasted__pasted__pasted__group8
+    100018: pasted__pCube2
+    100020: pasted__pCube3
+    100022: pasted__pCube4
+    100024: pCube2
+    100026: pCube3
+    100028: pCube4
+    100030: pCube5
+    100032: pCylinder1
+    100034: pCylinder2
+    100036: pCylinder3
+    100038: pPipe1
+    100040: //RootNode
+    400000: group
+    400002: group1
+    400004: group2
+    400006: group3
+    400008: group4
+    400010: group5
+    400012: pasted__group10
+    400014: pasted__pasted__group9
+    400016: pasted__pasted__pasted__group8
+    400018: pasted__pCube2
+    400020: pasted__pCube3
+    400022: pasted__pCube4
+    400024: pCube2
+    400026: pCube3
+    400028: pCube4
+    400030: pCube5
+    400032: pCylinder1
+    400034: pCylinder2
+    400036: pCylinder3
+    400038: pPipe1
+    400040: //RootNode
+    2300000: pasted__pCube2
+    2300002: pasted__pCube3
+    2300004: pasted__pCube4
+    2300006: pCube2
+    2300008: pCube3
+    2300010: pCube4
+    2300012: pCube5
+    2300014: pCylinder1
+    2300016: pCylinder2
+    2300018: pCylinder3
+    2300020: pPipe1
+    3300000: pasted__pCube2
+    3300002: pasted__pCube3
+    3300004: pasted__pCube4
+    3300006: pCube2
+    3300008: pCube3
+    3300010: pCube4
+    3300012: pCube5
+    3300014: pCylinder1
+    3300016: pCylinder2
+    3300018: pCylinder3
+    3300020: pPipe1
+    4300000: pCylinder1
+    4300002: pCube2
+    4300004: pasted__pCube4
+    4300006: pasted__pCube2
+    4300008: pasted__pCube3
+    4300010: pCube3
+    4300012: pCube4
+    4300014: pCube5
+    4300016: pCylinder2
+    4300018: pPipe1
+    4300020: pCylinder3
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__group10
+        weight: 1
+      - path: group/pasted__group10/pasted__pasted__group9
+        weight: 1
+      - path: group/pasted__group10/pasted__pasted__group9/pasted__pasted__pasted__group8
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group3
+        weight: 1
+      - path: group4
+        weight: 1
+      - path: group4/group5
+        weight: 1
+      - path: group4/group5/pasted__pCube2
+        weight: 1
+      - path: group4/group5/pasted__pCube3
+        weight: 1
+      - path: group4/group5/pasted__pCube4
+        weight: 1
+      - path: group4/group5/pCube2
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube4
+        weight: 1
+      - path: pCube5
+        weight: 1
+      - path: pCylinder1
+        weight: 1
+      - path: pCylinder2
+        weight: 1
+      - path: pCylinder3
+        weight: 1
+      - path: pPipe1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
